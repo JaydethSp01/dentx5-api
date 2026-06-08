@@ -1,2 +1,3 @@
-# dentx5-api
-ScrumDev AI backend (dentx5-api)
+# TPL Salud Cita Backend
+
+Este es el backend del sistema de gestión de citas médicas para la clínica.
